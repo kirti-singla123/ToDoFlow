@@ -22,3 +22,11 @@ ToDoFlow is a clean and responsive task management app built using **React**. It
 All functional UI components (Header, Tasks, etc.) are inside the `src/components/` folder.
 
 
+## 📦 Deployment Info
+
+- **Deployed on**: Vercel
+- **Hosting URL**: [https://todoflow-six.vercel.app](https://todoflow-six.vercel.app)
+- **Deployment Method**: Connected via GitHub → Vercel auto-builds and deploys on every push to `master`
+- **Persistence**: Tasks are saved using the browser's `localStorage`, so data stays even after refreshing
+- **Routing**: Handled with `react-router-dom` for multiple pages
+
