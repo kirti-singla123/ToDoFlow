@@ -19,5 +19,6 @@ ToDoFlow is a clean and responsive task management app built using **React**. It
 
 ## 📁 Folder Structure
 
-All your main components are located inside:
+All functional UI components (Header, Tasks, etc.) are inside the `src/components/` folder.
+
 
